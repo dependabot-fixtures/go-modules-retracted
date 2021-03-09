@@ -1,5 +1,5 @@
 package status
 
 func Retracted() bool {
-	return false
+	return true
 }
